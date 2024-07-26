@@ -41,7 +41,10 @@ contract Web3_Shoes {
         shoe.owner = msg.sender;
         shoe.forSale = false;
 
-        payable(shoe.owner).transfer(shoe.price);
+        (bool success, ) = (shoe.owner).call{value: shoe.price}("");
+        require(success, "transaction failed");
+
+        //payable(shoe.owner).transfer(shoe.price);
 
         emit shoeSold(_shoeId, "shoe sold");
     }

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/Learning Curve/dataTypes.sol": "Data"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/Learning Curve/dataTypes.sol": {
+			"keccak256": "0x42431a58dce9e629a29a67cb797ca0b714484c1f10b17b9161c3b36083ff7b1f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6fb36f3318271a78ae5a31b7cabd3c82f123d30c0fefcdbcd5069ce204fc2980",
+				"dweb:/ipfs/QmP8DPU177vo1s6R9KFYf4NAWm2TvHMQRj9Pn9EZ5cWUdj"
+			]
+		}
+	},
+	"version": 1
+}

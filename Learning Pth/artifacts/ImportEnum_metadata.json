@@ -1,0 +1,67 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "status",
+				"outputs": [
+					{
+						"internalType": "enum Status",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/importEnum.sol": "ImportEnum"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Enum.sol": {
+			"keccak256": "0x1062a18785c9462349dccaac11df6367215f6150ccecbf8bb8dfba6116ada432",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e0ce0be8854baf948ffe4ab8825b4f14c5a51ca3e71b03a953b41c0295273eef",
+				"dweb:/ipfs/QmZpMRMVWbwnojGiZzYftaDtnVbDS34NBtUqaKCsSUf2YZ"
+			]
+		},
+		"Learning Pth/importEnum.sol": {
+			"keccak256": "0x77138d7567d85a1c82fb42775c4c8d61d4634d632611ab247e8c49b356f3839f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://13ffefbae756a479ab1cdb7c4fa0a21a2c397cee25ace44570fe0cfa15683350",
+				"dweb:/ipfs/QmZQMbBvSxgh61WLimhUvzPtdNPNaGjSNrNQCjyWwgfapP"
+			]
+		}
+	},
+	"version": 1
+}

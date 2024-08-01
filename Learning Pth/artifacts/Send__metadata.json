@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/SendETHEx.sol": "Send_"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/SendETHEx.sol": {
+			"keccak256": "0xfd0b8eabbf9ffa8c03ffd64c3f3688af3e3d858c14e301db4c40ef67ff0a50d3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ccc7b312c98c844bc24f03a05024dbcfc19c6772098509dd3d6a25dae018158d",
+				"dweb:/ipfs/QmbRL6YVeS6jydFL2kcA7nCtGrkDCxPdk1bMegL6PuHF2i"
+			]
+		}
+	},
+	"version": 1
+}

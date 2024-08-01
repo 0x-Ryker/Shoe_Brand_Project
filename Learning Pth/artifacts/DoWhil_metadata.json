@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/DoWhileLoop.sol": "DoWhil"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/DoWhileLoop.sol": {
+			"keccak256": "0xadb4f93f68b5f4f3ed42eaa774f944dd25914b1240c0613bf7792cef4dc9103a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://09e1eef339fab30ea0f2912bc5086f83dd86b7693f8580c148b2905dadc8d8eb",
+				"dweb:/ipfs/QmRqSzqYh8WeeFo24LHgWovdqf61LZDveP8aZb6YYLMjfC"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Assert.sol": "Asser"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Assert.sol": {
+			"keccak256": "0x7f90f4727446deacf66b14b494a33e8a931904c037736ee14d5ba2af99637400",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1ee3328ee35a0ad24085e740752e04efb6a4ea4a5c1a40551d06207bfe02df14",
+				"dweb:/ipfs/Qmcikn3xq2T4CfJULfW7wnybgbuDyQ5eXhPeomwiYNANty"
+			]
+		}
+	},
+	"version": 1
+}

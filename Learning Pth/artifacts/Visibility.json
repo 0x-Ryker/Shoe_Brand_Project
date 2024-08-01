@@ -1,0 +1,60 @@
+{
+	"deploy": {
+		"VM:-": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"main:1": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"ropsten:3": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"rinkeby:4": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"kovan:42": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"goerli:5": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		},
+		"Custom": {
+			"linkReferences": {},
+			"autoDeployLib": true
+		}
+	},
+	"data": {
+		"bytecode": {
+			"functionDebugData": {},
+			"generatedSources": [],
+			"linkReferences": {},
+			"object": "6080604052348015600e575f80fd5b50603e80601a5f395ff3fe60806040525f80fdfea26469706673582212204722bd4fe7c5c3b1f033c6c44d55525dbe3dc015ae053e3a388fcb77d61c8add64736f6c634300081a0033",
+			"opcodes": "PUSH1 0x80 PUSH1 0x40 MSTORE CALLVALUE DUP1 ISZERO PUSH1 0xE JUMPI PUSH0 DUP1 REVERT JUMPDEST POP PUSH1 0x3E DUP1 PUSH1 0x1A PUSH0 CODECOPY PUSH0 RETURN INVALID PUSH1 0x80 PUSH1 0x40 MSTORE PUSH0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 SELFBALANCE 0x22 0xBD 0x4F 0xE7 0xC5 0xC3 0xB1 CREATE CALLER 0xC6 0xC4 0x4D SSTORE MSTORE TSTORE 0xBE RETURNDATASIZE 0xC0 ISZERO 0xAE SDIV RETURNDATACOPY GASPRICE CODESIZE DUP16 0xCB PUSH24 0xD61C8ADD64736F6C634300081A0033000000000000000000 ",
+			"sourceMap": "61:30:0:-:0;;;;;;;;;;;;;;;;;;;"
+		},
+		"deployedBytecode": {
+			"functionDebugData": {},
+			"generatedSources": [],
+			"immutableReferences": {},
+			"linkReferences": {},
+			"object": "60806040525f80fdfea26469706673582212204722bd4fe7c5c3b1f033c6c44d55525dbe3dc015ae053e3a388fcb77d61c8add64736f6c634300081a0033",
+			"opcodes": "PUSH1 0x80 PUSH1 0x40 MSTORE PUSH0 DUP1 REVERT INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 SELFBALANCE 0x22 0xBD 0x4F 0xE7 0xC5 0xC3 0xB1 CREATE CALLER 0xC6 0xC4 0x4D SSTORE MSTORE TSTORE 0xBE RETURNDATASIZE 0xC0 ISZERO 0xAE SDIV RETURNDATACOPY GASPRICE CODESIZE DUP16 0xCB PUSH24 0xD61C8ADD64736F6C634300081A0033000000000000000000 ",
+			"sourceMap": "61:30:0:-:0;;;;;"
+		},
+		"gasEstimates": {
+			"creation": {
+				"codeDepositCost": "12400",
+				"executionCost": "64",
+				"totalCost": "12464"
+			}
+		},
+		"methodIdentifiers": {}
+	},
+	"abi": []
+}

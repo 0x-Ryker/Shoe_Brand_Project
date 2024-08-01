@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/CallOtherContractsEX.sol": "Caller_"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/CallOtherContractsEX.sol": {
+			"keccak256": "0x76c8cf2ac8656ddda82177a0b4acc8d95c50089d961b79e33bf40a7a56fb95b5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8ea91407f355831fd17c3652461b797858a72de5d69db203a5b4d5f8da178876",
+				"dweb:/ipfs/QmYAAhoahus1HFueJyBfV4T7eNSaMV7Yquj9cVnWh5Wq9Y"
+			]
+		}
+	},
+	"version": 1
+}

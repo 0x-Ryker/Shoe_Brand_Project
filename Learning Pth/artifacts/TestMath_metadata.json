@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					}
+				],
+				"name": "testSquareRoot",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Library.sol": "TestMath"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Library.sol": {
+			"keccak256": "0x1f6a218418a74ce7643d54fb21c6aa0b4b2cb7b7c0be3e5843e3c6e6cb6b0018",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ac41d8645be658caf487b96aa04005636322a288be32f38f4b9064ed59cc57b4",
+				"dweb:/ipfs/QmQqQUgyHuDtpUdwag7QtQFQQQQRjEsMh1AvRwr2XKW4Vx"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getTokenReserves",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Interface.sol": "UniswapExample"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Interface.sol": {
+			"keccak256": "0x34e82cf14bb69c03dd607cd82eb146e500291a6d92a665cf5f9ed40251c2b6b1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e0f1ded3aada68d3e56de9551cade57daf627e6a6637bce48864b6db44f9ec8e",
+				"dweb:/ipfs/QmRwxBRRunGEvWAr567XmdqKQGyr8UJJSkVTZPAi4byKXX"
+			]
+		}
+	},
+	"version": 1
+}

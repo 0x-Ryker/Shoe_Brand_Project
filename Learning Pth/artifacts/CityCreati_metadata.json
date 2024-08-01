@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/CreateContractFromContractEX.sol": "CityCreati"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/CreateContractFromContractEX.sol": {
+			"keccak256": "0xa13d3bce2f67c910ffae3c0b98bc338df82709203649b172c004e0fda5470107",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e32f303a500a8186c4275be4bf5677b065d7aabe7f4f344df8de1f39e39864b2",
+				"dweb:/ipfs/QmWdDVfJdAH9xJUPV9RVLcZurmPRuNRoiMLxrvtq9JU1wy"
+			]
+		}
+	},
+	"version": 1
+}

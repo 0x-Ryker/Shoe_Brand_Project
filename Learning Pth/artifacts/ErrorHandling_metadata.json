@@ -1,0 +1,136 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_numb1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_numb2",
+						"type": "uint256"
+					}
+				],
+				"name": "assertErr",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "data",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_number1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_number2",
+						"type": "uint256"
+					}
+				],
+				"name": "requiretErr",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_num2",
+						"type": "uint256"
+					}
+				],
+				"name": "revertErr",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/ErrorHandling.sol": "ErrorHandling"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/ErrorHandling.sol": {
+			"keccak256": "0x1c0ba117cadcd27861e534ffc2d4e06a815587930bdefbacb808cd23e580eda2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7da9436ad00d672315d8bdefbf8f0b37a6af075a44afe2b00b683553b3f278f5",
+				"dweb:/ipfs/Qma2fAhnrpk517gFBXTtMbToF58TDRkLNMPDo2eMqb4Jaz"
+			]
+		}
+	},
+	"version": 1
+}

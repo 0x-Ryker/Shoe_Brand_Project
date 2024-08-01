@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "addr",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "amount",
+						"type": "uint256"
+					}
+				],
+				"name": "Encode",
+				"outputs": [
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/DecodeEx.sol": "Decode"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/DecodeEx.sol": {
+			"keccak256": "0x1294d072a3b34acf9ad8bde03637542016676f68fa2d95e281d3b24e469091ce",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://638475562275fd714b3603c37dfb40da7e51687be04e8a3fce5feef8841ff141",
+				"dweb:/ipfs/Qmf9w2tQ7JS4JyuFnR3PSERFNJJodeRzhnEQT1Duietcr8"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Cloth_Brand_Project.sol": "Clothing_B"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Cloth_Brand_Project.sol": {
+			"keccak256": "0x02b1b84dc3641a2436427b8a2096e0d11d6a5db11f446f4aa5803caa3babf1f6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://af06c0540780c08fcbe39172f1490e7f3667dab9a3c649ca586939adec0a8702",
+				"dweb:/ipfs/QmRTPmg184p5FWUmctobHRYibCW9kcVM6PX8L3kKgbbhGf"
+			]
+		}
+	},
+	"version": 1
+}

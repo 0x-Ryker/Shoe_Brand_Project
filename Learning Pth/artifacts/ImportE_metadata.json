@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/importEnum.sol": "ImportE"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/importEnum.sol": {
+			"keccak256": "0x710fd5ec3ddc51c10ccd16d09dcb9aeb4b7b37ecfe0b2e54a4234345965072c6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://16ba0cf10ff685a4837a7c8f9384175e1f162bf654ac47d3c15701494138f95c",
+				"dweb:/ipfs/QmVDvFi7zkmYLEvYrUJHTzxnqNZcipBsYG2hJgSYRWSif7"
+			]
+		}
+	},
+	"version": 1
+}

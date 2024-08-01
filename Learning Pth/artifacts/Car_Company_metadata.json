@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/ProjectRealEstateEx.sol": "Car_Company"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/ProjectRealEstateEx.sol": {
+			"keccak256": "0x77a0e9ead59b6927a3deab8fc30461614b52ff9162403a5c677099454858de02",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d38a24bb1ba947a8630f122a6f4fb2391aa0717ac8e0b02f61db427c704c38a6",
+				"dweb:/ipfs/QmZfMWJR52LGYzpFz2JYZpWkSz6BXQ13y8uxzusjnQyGjs"
+			]
+		}
+	},
+	"version": 1
+}

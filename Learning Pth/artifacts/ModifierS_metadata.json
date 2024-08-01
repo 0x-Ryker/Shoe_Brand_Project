@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Modifier.sol": "ModifierS"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Modifier.sol": {
+			"keccak256": "0xafdc8c5b477a9b6de76fa4a110b15989aebce1fb46329136c6234f467bd034d5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cb01b44cd6df45af6e00b7bae28370686a33bc30a635ef3416236b8aee447a41",
+				"dweb:/ipfs/QmUTDN5oAgvNnvAskJf7XsvASHim2cJmWaTFxEKidQrSFT"
+			]
+		}
+	},
+	"version": 1
+}

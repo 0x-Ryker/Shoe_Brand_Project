@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Project_Real_Estate.sol": "Re"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Project_Real_Estate.sol": {
+			"keccak256": "0xb4355ceb2ad0cb4935f9ddcfb8c9737ebac9d4e7dd44d7cc16287c41ad9a765a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b8eb862788902ee02e35f56bab4216e9f48b501c0260786ad1525f786765d090",
+				"dweb:/ipfs/QmTQRA6Edcs77ZmCV66TWX8qELojQi4k1ypyisedKgqvHY"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/AbiEncode.sol": "IER"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/AbiEncode.sol": {
+			"keccak256": "0x041f2ed70478567ab22830eeb395930bad37dd9bc808ce597e4ebe6880984165",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://09cf481e5048c3878bbbfcba02aabaa3a27c7d2808ec198825f4437d5fb0dd11",
+				"dweb:/ipfs/QmfKtZG9qCiLMLzDkBykU2k1TdXZQ5DyFKsXMhe5vmSicb"
+			]
+		}
+	},
+	"version": 1
+}

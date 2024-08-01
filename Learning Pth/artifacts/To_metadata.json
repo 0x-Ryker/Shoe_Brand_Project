@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/StructEx.sol": "To"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/StructEx.sol": {
+			"keccak256": "0xd8284b108687d9701da8d41d4c971529bd7c4d0ff8af83cdc1579242e86a6b4f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1ed3d77376e2036277b5d5dec8aa4218f87dc690626ae0a3ff775de13e73889b",
+				"dweb:/ipfs/QmfVoBd34NA88hmZCPwjTyWJqC48D8daSfsygcZsNMFbLR"
+			]
+		}
+	},
+	"version": 1
+}

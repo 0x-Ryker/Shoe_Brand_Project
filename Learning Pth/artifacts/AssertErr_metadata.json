@@ -1,0 +1,90 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_value1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_value2",
+						"type": "uint256"
+					}
+				],
+				"name": "checkOutput",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "output",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "viewRes",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Assert.sol": "AssertErr"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Assert.sol": {
+			"keccak256": "0xc011831f5f025abfa113019ef0eab03679182f79eaf72b8b214226d698256cf6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://043ec3050f519b48b5d0bda49b57d3108fc2ec9cdf6d21e639e949d9a40465db",
+				"dweb:/ipfs/Qmct2R2crdgiR7xpCJfZu4xCHRbZAvfBABpBpmgbfr31Pg"
+			]
+		}
+	},
+	"version": 1
+}

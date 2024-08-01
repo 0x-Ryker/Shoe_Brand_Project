@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/ArraysEx.sol": "Arr"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/ArraysEx.sol": {
+			"keccak256": "0xd574c225425fb47062d4244fe557280334dbf278d0e3eaa3872e7cec0e69f0ff",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9bdc6e38adecf586400319600d05d3f162274ec0940a8f4c5b3fa38403d2de94",
+				"dweb:/ipfs/QmVKyGqJfc7KQtDYU14zDq3jWAQrQZWfB74Aw9Lkdt323k"
+			]
+		}
+	},
+	"version": 1
+}

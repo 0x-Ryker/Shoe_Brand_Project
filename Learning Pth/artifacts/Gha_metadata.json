@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_pet",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "pet",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/constructorEx.sol": "Gha"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/constructorEx.sol": {
+			"keccak256": "0x397fb312852eab306ec1185971e8d4e9e9e9616ba33b4fac605b17e1f5b2f46e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://38a1a79aa34d908bcaf20f2f5414719345b6ff61801016762ba99ed69feac60d",
+				"dweb:/ipfs/QmbUeNWes2cusrp9hseKCYzY1R2XDmdZ6JHKKrYcyPDDtJ"
+			]
+		}
+	},
+	"version": 1
+}

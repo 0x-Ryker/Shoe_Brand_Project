@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/ProjectMedicalEx.sol": "Mere"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/ProjectMedicalEx.sol": {
+			"keccak256": "0xeb13a4167c036dc9a6b41f4520a1aba3b4b0feab17fd67b9b5c256453bacf26a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://bb7941db7dd4f08f923ab77428ce5d6e2c469644ee4f1f9afa18c3895abc90dc",
+				"dweb:/ipfs/QmfSoQo7TAuduVD9ATxrGYBPVHmhgKm6GCVP4yZrVLynv4"
+			]
+		}
+	},
+	"version": 1
+}

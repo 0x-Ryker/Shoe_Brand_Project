@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Keccak256.sol": "GuessTheMagic"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Keccak256.sol": {
+			"keccak256": "0x2a2baaf28bd32da91478f8d4cfe95aac115b4c71014e7497ed7ea0b81af244d2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://92e3caa94315ee6b36f1f3f5b4409488bbaa92fd47bbc3c06c3a5ddc814f62c3",
+				"dweb:/ipfs/Qmeiz78p3K5UTiAmsgeNy5BEJ9P3MWTgrbCt5PRywBVuKD"
+			]
+		}
+	},
+	"version": 1
+}

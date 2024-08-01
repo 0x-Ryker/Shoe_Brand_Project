@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/CrowdFundPro.sol": "Cor"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/CrowdFundPro.sol": {
+			"keccak256": "0xd88d962d8b9fb1cb1bf39f00957f8ce7489988063a4a237bdc59cf3b72805c4c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6654ffec1e80ad6a76b52d0ce10cc5b0a07aee33e2ee08323ea456dc51f7f017",
+				"dweb:/ipfs/QmU9s2DT5i7KmsaodETuTqfrnuEPDAq67FwBsjXQjA3svx"
+			]
+		}
+	},
+	"version": 1
+}

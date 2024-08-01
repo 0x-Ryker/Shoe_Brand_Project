@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getConstant",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "my_Addrs",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/constant.sol": "ConstantKey"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/constant.sol": {
+			"keccak256": "0x5a72f7c878aedcedb5ba322398eb9bcd6865c96cc5391e3428365c312e5d8e64",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9eae34dac504ef97fe969a3aee6adc7fe9cda9bb50a2d81e952d4ca756ba442d",
+				"dweb:/ipfs/QmSjZ9ND6XZAJtrarhqC7gbBmKCUXiJnVQxK11LP3ixQFA"
+			]
+		}
+	},
+	"version": 1
+}

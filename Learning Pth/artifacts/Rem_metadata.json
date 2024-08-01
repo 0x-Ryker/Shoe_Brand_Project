@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/ExArrayReplace.sol": "Rem"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/ExArrayReplace.sol": {
+			"keccak256": "0x77054289046475d3fecde3a87acd6129860f2559eb06363bc394488f51d1f8f5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a1d1f6d3747c3b5e03b0bfb1bda81512ddc7b319b85662c9036cd408e51bbe99",
+				"dweb:/ipfs/QmenWPMEF2UwG7dojsJjfLGJNEXDvBTwT3tJyz2d3xuk46"
+			]
+		}
+	},
+	"version": 1
+}

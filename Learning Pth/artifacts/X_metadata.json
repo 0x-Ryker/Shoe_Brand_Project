@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/ReviewLearnings.sol": "X"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/ReviewLearnings.sol": {
+			"keccak256": "0x5cb60e61d6c0b28e6b927aa08cafc8cb4f28875f73476247139910c508c06ae9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://504a2747163986dbd353602dd5a1cf84058a0837704ba95e3211c70b60e14383",
+				"dweb:/ipfs/Qmc2enkLzrN5JimbTE7UFfiif1MpgBirpnBzPTNhxLYGvF"
+			]
+		}
+	},
+	"version": 1
+}

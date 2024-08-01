@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/Revert.sol": "RevertE"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/Revert.sol": {
+			"keccak256": "0x0bafdd56a37c483b9aadad049e1639781346abad405c065e017841c5d1677af6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://edb244f6516ae35b508cfb1e5676120e33e249ee228fb6db6b416ffb7a5d136d",
+				"dweb:/ipfs/Qmc5pZdRJubo5KjdUaB3kUDAAQV9CxqcqEJHtF73aq461t"
+			]
+		}
+	},
+	"version": 1
+}

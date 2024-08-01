@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Learning Pth/ArrayRemove.sol": "ArrayRmv"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Learning Pth/ArrayRemove.sol": {
+			"keccak256": "0x1859be1a72831a6e79b02b697e7bd2430bbab707793c23232fe9e97944ec95c5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://79143f88592a81f4b37bbfa477f44f1823abac4de065d2908721b05ea62b20c7",
+				"dweb:/ipfs/QmRaKstYtEUEvASh5HuHemDmC3HavRqnDGoWEDRnub8h8r"
+			]
+		}
+	},
+	"version": 1
+}
